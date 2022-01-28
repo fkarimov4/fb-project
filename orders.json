@@ -1,0 +1,18 @@
+[
+    {
+        "customerId": "dYNpzFFstNdntXQ11rmm",
+        "orderTotal": 20,
+        "orderItems": [
+            {
+                "productId": "k4gec57HxqLQhzfi4GcS",
+                "quantity": 2
+            }
+        ],
+        "orderStatus": "Processing",
+        "paymentInfo": {
+            "paymentType": "Visa",
+            "paymentStatus": "Paid",
+            "cardNumber": "1822"
+        }
+    }
+]
